@@ -1,0 +1,22 @@
+{
+  "wheel_id": 781,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-102",
+  "project": "bathroom-tiling-adelaide-faq-79e971edbb8a523908c43b4d19fc8526b9",
+  "parent_t1_ref": "adelaidetilingwaterproofing-150",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide faq",
+  "intended_url": "https://sites-e470-2.web.app/bathroom-tiling-adelaide-faq-79e971edbb8a523908c43b4d19fc8526b9/",
+  "tier": "T2",
+  "writeback_nonce": "8201eaa66f2c0c9f",
+  "links": [
+    {
+      "target_url": "http://bathroom-tiling-adelaide-red-flags-f26d7e6d51b5b4ea2ef012c01f8c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this bathroom tiling adelaide red flags guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
